@@ -1,0 +1,201 @@
+
+/*#region Roboto*/
+
+    @font-face {
+    font-family: 'Roboto Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto Regular'), url('../_fonts/roboto/Roboto-Regular.woff') format('woff');
+    }
+    
+    @font-face {
+    font-family: 'Roboto Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto Italic'), url('../_fonts/roboto/Roboto-Italic.woff') format('woff');
+    }
+    
+    @font-face {
+    font-family: 'Roboto Thin';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto Thin'), url('../_fonts/roboto/Roboto-Thin.woff') format('woff');
+    }
+
+    @font-face {
+    font-family: 'Roboto Thin Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto Thin Italic'), url('../_fonts/roboto/Roboto-ThinItalic.woff') format('woff');
+    }
+    
+    @font-face {
+    font-family: 'Roboto Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto Light'), url('../_fonts/roboto/Roboto-Light.woff') format('woff');
+    }
+
+    @font-face {
+    font-family: 'Roboto Light Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto Light Italic'), url('../_fonts/roboto/Roboto-LightItalic.woff') format('woff');
+    }
+    
+    @font-face {
+    font-family: 'Roboto Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto Medium'), url('../_fonts/roboto/Roboto-Medium.woff') format('woff');
+    }
+    
+    @font-face {
+    font-family: 'Roboto Medium Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto Medium Italic'), url('../_fonts/roboto/Roboto-MediumItalic.woff') format('woff');
+    }
+
+    @font-face {
+    font-family: 'Roboto Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto Bold'), url('../_fonts/roboto/Roboto-Bold.woff') format('woff');
+    }
+    
+    @font-face {
+    font-family: 'Roboto Bold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto Bold Italic'), url('../_fonts/roboto/Roboto-BoldItalic.woff') format('woff');
+    }
+    
+    @font-face {
+    font-family: 'Roboto Black';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto Black'), url('../_fonts/roboto/Roboto-Black.woff') format('woff');
+    }
+    
+    @font-face {
+    font-family: 'Roboto Black Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto Black Italic'), url('../_fonts/roboto/Roboto-BlackItalic.woff') format('woff');
+    }
+
+    @font-face {
+    font-family: 'Roboto Condensed Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto Condensed Regular'), url('../_fonts/roboto/RobotoCondensed-Regular.woff') format('woff');
+    }
+    
+    @font-face {
+    font-family: 'Roboto Condensed Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto Condensed Italic'), url('../_fonts/roboto/RobotoCondensed-Italic.woff') format('woff');
+    }
+    
+    @font-face {
+    font-family: 'Roboto Condensed Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto Condensed Light'), url('../_fonts/roboto/RobotoCondensed-Light.woff') format('woff');
+    }
+    
+    @font-face {
+    font-family: 'Roboto Condensed Light Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto Condensed Light Italic'), url('../_fonts/roboto/RobotoCondensed-LightItalic.woff') format('woff');
+    }
+    
+    @font-face {
+    font-family: 'Roboto Condensed Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto Condensed Medium'), url('../_fonts/roboto/RobotoCondensed-Medium.woff') format('woff');
+    }
+    
+    @font-face {
+    font-family: 'Roboto Condensed Medium Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto Condensed Medium Italic'), url('../_fonts/roboto/RobotoCondensed-MediumItalic.woff') format('woff');
+    }
+    
+    @font-face {
+    font-family: 'Roboto Condensed Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto Condensed Bold'), url('../_fonts/roboto/RobotoCondensed-Bold.woff') format('woff');
+    }
+    
+    @font-face {
+    font-family: 'Roboto Condensed Bold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Roboto Condensed Bold Italic'), url('../_fonts/roboto/RobotoCondensed-BoldItalic.woff') format('woff');
+    }
+
+/*#endregion Roboto*/
+
+/*#region Playfair Display*/
+    
+    @font-face {
+    font-family: 'Playfair Display Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Playfair Display Regular'), url('../_fonts/playfairdisplay/PlayfairDisplay-Regular.woff') format('woff');
+    }
+    
+    @font-face {
+    font-family: 'Playfair Display Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Playfair Display Italic'), url('../_fonts/playfairdisplay/PlayfairDisplay-Italic.woff') format('woff');
+    }
+    
+    @font-face {
+    font-family: 'Playfair Display Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Playfair Display Bold'), url('../_fonts/playfairdisplay/PlayfairDisplay-Bold.woff') format('woff');
+    }
+
+    @font-face {
+    font-family: 'Playfair Display Bold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Playfair Display Bold Italic'), url('../_fonts/playfairdisplay/PlayfairDisplay-BoldItalic.woff') format('woff');
+    }
+
+    @font-face {
+    font-family: 'Playfair Display Black';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Playfair Display Black'), url('../_fonts/playfairdisplay/PlayfairDisplay-Black.woff') format('woff');
+    }
+    
+    @font-face {
+    font-family: 'Playfair Display Black Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Playfair Display Black Italic'), url('../_fonts/playfairdisplay/PlayfairDisplay-BlackItalic.woff') format('woff');
+    }
+
+/*#endregion Playfair Display*/
+
+/*#region HammersmithOne*/
+
+    @font-face {
+    font-family: 'HammersmithOne Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('HammersmithOne Regular'), url('../_fonts/hammersmithone/HammersmithOne-Regular.woff') format('woff');
+    }
+
+/*#endregion HammersmithOne*/

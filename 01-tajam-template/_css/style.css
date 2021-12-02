@@ -1,0 +1,92 @@
+@import url('fonts.css');
+
+.header 
+{
+    background-image: url('../_img/header-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 670px;
+}
+
+.navbar-nav .nav-item .nav-link
+{
+    text-transform: uppercase;
+    color:#FFFFFF;
+    font-family: 'Roboto Black';
+    font-size: 13px;
+    margin-left: 25px;
+}
+
+.main-text
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 540px;
+}
+
+.main-title
+{
+    font-family: 'Playfair Display Black';
+    font-size: 32px;
+    color:#FFFFFF;
+}
+
+.seperator
+{
+    border-top: 1px solid rgb(0, 224, 208);
+    width: 50px;
+    opacity: 1;
+    margin: 20px 0px;
+}
+
+.sub-text
+{
+    font-family: 'Roboto Light';
+    color: #FFFFFF;
+    max-width: 800px;
+    line-height: 1.714;
+    font-size: 14px;
+    letter-spacing: .02cm;
+}
+
+.btn-header
+{
+    border-width: 1px;
+    border-color: rgb(0, 224, 208);
+    border-style: solid;
+    border-radius: 2px;
+    background-color: transparent;
+    color: rgb(0, 224, 208);
+    width: 118px;
+    height: 38px;
+    font-family: 'HammersmithOne Regular';
+    margin: 30px 0px 20px 0px;
+}
+
+.btn-header:hover
+{
+    background-color:#FFFFFF;
+    color: #000000;
+}
+
+.carousel
+{
+    margin:0px 20px;
+}
+
+.carousel-indicators [data-bs-target] 
+{
+    width: 7px;
+    height: 7px;
+    border-radius: 5px;
+    border: 2px solid #FFFFFF;
+    background-color: transparent;
+}
+
+.carousel-indicators .active 
+{
+
+    background-color: #FFFFFF;
+
+}
