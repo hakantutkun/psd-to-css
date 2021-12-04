@@ -60,7 +60,7 @@
     width: 138px;
     height: 38px;
     font-family: 'HammersmithOne Regular';
-    margin: 30px 0px 20px 0px;
+    margin: 0px 0px 20px 0px;
 }
 
 .btn-header:hover
@@ -267,6 +267,186 @@ border-right:0;
     margin: 60px 0px 0px 0px;
     color: #FFFFFF;
     font-size: 14px;
+}
+
+.works-title-bar
+{
+    min-height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.works-title
+{
+    font-family: 'Playfair Display Bold';
+    font-weight: bold;
+    font-family: '';
+    font-size: 22px;
+}
+
+.see-all-link
+{
+    font-family: 'Roboto Light';
+    font-size: 14px;
+    text-decoration: none;
+    color: #413d4b;
+}
+
+#testimonials
+{
+    background-image: url('../_img/testimonials-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px;
+}
+
+.testimonials-icon
+{
+    font-family: 'Playfair Display Regular';
+    font-size: 100px;
+    color: #FFFFFF;
+    max-height: 140px;
+
+}
+
+.testimonials-text
+{
+    font-family: 'Playfair Display Regular';
+    font-size: 16px;
+    color: #FFFFFF;
+    max-width: 700px;
+    display: inline-block;
+}
+
+.contact-left-title
+{
+    font-family: 'Playfair Display Bold';
+    font-size: 22px;
+}
+
+.form-control
+{
+    border: 1px solid #e5e5e5;
+    border-radius: 0px;
+    min-height: 45px;
+    margin: 30px 0px;
+    padding-left: 10px;
+    padding-top: 4px;
+}
+
+.form-control::placeholder
+{
+    color:#413d4b;
+    font-family: 'Roboto Light';
+    font-size: 14px;
+    padding-left: 10px;
+    padding-top: 4px;
+}
+
+#footer
+{
+    background-image: url('../_img/footer-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+}
+
+.footer-text
+{
+    font-family: 'Roboto Light';
+    font-size: 14px;
+    color:#FFFFFF;
+}
+
+.footer-text-title
+{
+    font-family: 'Roboto Regular';
+    font-size: 14px;
+    font-weight: bold;
+    color:#FFFFFF;
+}
 
 
+.footer-address
+{
+    font-family: 'Roboto Light';
+    font-size: 15px;
+    color: #FFFFFF;
+}
+
+.control-footer
+{
+    background-color: transparent;
+}
+
+.control-footer:focus
+ {
+     background-color: transparent;
+ }
+
+.control-footer::placeholder
+{
+    font-family: 'Roboto Light';
+    color: rgba(255, 255, 255, .75);
+}
+
+.footer-button
+{
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 0px;
+    background-color: rgba(255, 255, 255,.5);
+    color: rgb(0, 224, 208);
+    height: 45px;
+    font-family: 'HammersmithOne Regular';
+}
+
+.media-link
+{
+    border: 1px solid #FFFFFF;
+    background-color: transparent;
+    border-radius: 50%;
+    margin-right: 8px;
+    width: 36px;
+    height: 36px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-links
+{
+    background-color: transparent;
+}
+
+.footer-links .list-group .list-group-item
+{
+    background-color: transparent;
+}
+
+.footer-links ul li
+{
+    text-align: left;
+}
+
+.footer-links ul li a
+{
+    background-color: transparent;
+    border: none;
+    color: #FFFFFF;
+    text-decoration: none;
+    text-align: left;
+}
+
+.footer-links li
+{
+    display: inline;
+}
+
+.copyright
+{
+    font-family: 'Roboto Regular';
+    color: #FFFFFF;
+    text-align: right;
 }
